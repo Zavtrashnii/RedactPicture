@@ -1,0 +1,20 @@
+C:\Users\Завтрашний\source\repos\RedactPicture\RedactPicture\bin\Debug\RedactPicture.exe.config
+C:\Users\Завтрашний\source\repos\RedactPicture\RedactPicture\bin\Debug\RedactPicture.exe
+C:\Users\Завтрашний\source\repos\RedactPicture\RedactPicture\bin\Debug\RedactPicture.pdb
+C:\Users\Завтрашний\source\repos\RedactPicture\RedactPicture\obj\Debug\RedactPicture.csprojAssemblyReference.cache
+C:\Users\Завтрашний\source\repos\RedactPicture\RedactPicture\obj\Debug\RedactPicture.Form1.resources
+C:\Users\Завтрашний\source\repos\RedactPicture\RedactPicture\obj\Debug\RedactPicture.Properties.Resources.resources
+C:\Users\Завтрашний\source\repos\RedactPicture\RedactPicture\obj\Debug\RedactPicture.csproj.GenerateResource.cache
+C:\Users\Завтрашний\source\repos\RedactPicture\RedactPicture\obj\Debug\RedactPicture.csproj.CoreCompileInputs.cache
+C:\Users\Завтрашний\source\repos\RedactPicture\RedactPicture\obj\Debug\RedactPicture.exe
+C:\Users\Завтрашний\source\repos\RedactPicture\RedactPicture\obj\Debug\RedactPicture.pdb
+C:\Users\lalka\Desktop\папка с разным\RedactPicture\RedactPicture\bin\Debug\RedactPicture.exe.config
+C:\Users\lalka\Desktop\папка с разным\RedactPicture\RedactPicture\bin\Debug\RedactPicture.exe
+C:\Users\lalka\Desktop\папка с разным\RedactPicture\RedactPicture\bin\Debug\RedactPicture.pdb
+C:\Users\lalka\Desktop\папка с разным\RedactPicture\RedactPicture\obj\Debug\RedactPicture.csprojAssemblyReference.cache
+C:\Users\lalka\Desktop\папка с разным\RedactPicture\RedactPicture\obj\Debug\RedactPicture.Form1.resources
+C:\Users\lalka\Desktop\папка с разным\RedactPicture\RedactPicture\obj\Debug\RedactPicture.Properties.Resources.resources
+C:\Users\lalka\Desktop\папка с разным\RedactPicture\RedactPicture\obj\Debug\RedactPicture.csproj.GenerateResource.cache
+C:\Users\lalka\Desktop\папка с разным\RedactPicture\RedactPicture\obj\Debug\RedactPicture.csproj.CoreCompileInputs.cache
+C:\Users\lalka\Desktop\папка с разным\RedactPicture\RedactPicture\obj\Debug\RedactPicture.exe
+C:\Users\lalka\Desktop\папка с разным\RedactPicture\RedactPicture\obj\Debug\RedactPicture.pdb
